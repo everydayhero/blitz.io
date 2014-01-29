@@ -3,7 +3,8 @@ blitz.io
 
 Performance tests using Blitz.io
 
-This is a very simple script using the Blitz.io Ruby Gem to load up the app.
+This is a very simple script using the Blitz.io Ruby Gem to load up specific
+endpoints in supporter.
 
 Setup
 -----
